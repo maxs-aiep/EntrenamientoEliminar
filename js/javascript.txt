@@ -1,2 +1,0 @@
-string main 
-@mars = 20
